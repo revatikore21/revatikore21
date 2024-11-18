@@ -1,20 +1,17 @@
 <p align="center">
   <img src="https://github.com/revatikore21/revatikore21/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7444356b4543324a59634b4848307a4f2e676966.gif" alt="GIF" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Revati Kore</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revatikore21&label=Profile%20views&color=0e75b6&style=flat" alt="revatikore21" /> </p>
 <p align="right">
   <img src="https://github.com/revatikore21/revatikore21/blob/e2b133a054e20870ae83e3d328a52e7e22ba12e8/68747470733a2f2f626564617461736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30322f64617461736369656e63652e676966.gif" alt="GIF" />
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revatikore21" alt="revatikore21" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **SQL, Microsoft Excel**
+- 💬 Ask me about **SQL,Microsoft Excel, Data Visualization, Python**
 
 - 📫 How to reach me **revatikore20@gmail.com**
 
@@ -30,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revatikore21&show_icons=true&locale=en" alt="revatikore21" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revatikore21&" alt="revatikore21" /></p>
