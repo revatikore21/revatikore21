@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revatikore21&label=Profile%20views&color=0e75b6&style=flat" alt="revatikore21" /> </p>
 <p align="right">
-  <img src="https://github.com/revatikore21/revatikore21/blob/main/Server%20data%20analysis.mp4" alt="GIF" />
+  <img src="https://github.com/revatikore21/revatikore21/blob/e2b133a054e20870ae83e3d328a52e7e22ba12e8/68747470733a2f2f626564617461736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30322f64617461736369656e63652e676966.gif" alt="GIF" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revatikore21" alt="revatikore21" /></a> </p>
