@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/revatikore21/SQL/blob/4bf1bb46e0dc21511c84506a957d43527e8b9b5c/Server%20data%20analysis.mp4" alt="GIF" />
+  <img src="https://github.com/revatikore21/revatikore21/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7444356b4543324a59634b4848307a4f2e676966.gif" alt="GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Revati Kore</h1>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revatikore21&show_icons=true&locale=en" alt="revatikore21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revatikore21&" alt="revatikore21" /></p>
+
